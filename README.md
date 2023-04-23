@@ -1,4 +1,4 @@
-# Green Trail
+# Green Trail 🌱
 
 <img align="right" width="500" alt="greentrail" src="https://user-images.githubusercontent.com/97895129/233811559-63f4cded-255e-4712-81fb-1982dddc8b48.png">
 
